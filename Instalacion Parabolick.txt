@@ -1,0 +1,23 @@
+Software Desarrollado Por Roberto Carlos Garcia Cortes
+
+Objetivo del Programa
+
+Realizar el envio y recepcion de archivos de cualquier clase dentro de una red VPN para una empresa
+
+
+La instalacion Requiere los siguiente:
+
+Las siguientes Carpetas dentro de la Ruta c:\Parabolick\
+
+*Enviados
+*Extraidos
+*OldRecividos
+*Recibidos
+*Reportes
+*Ensamble
+*Generados
+Bd
+dll
+Img
+
+Ejecutar CrearCarpetas.bat para crear la estrucctura de directorios

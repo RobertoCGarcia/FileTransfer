@@ -1,0 +1,527 @@
+[Root]
+Most Recent Package=FileTransfer
+
+
+[Package|Parabolick|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Parabolick
+
+[Package|Parabolick|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Parabolick|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Parabolick|Files Found]
+
+[Package|Parabolick|Files Released]
+
+[Package|Parabolick|Missing Dependency Information]
+C:\WINDOWS\system32\SystemTray.dll=
+C:\Archivos de programa\Archivos comunes\System\ado\msado25.tlb=
+C:\Parabolick\zlib.dll=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+C:\WINDOWS\system32\wininet.dll=
+C:\Parabolick\Envios.exe=
+
+[Package|Parabolick|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\mscomct2.ocx=
+C:\WINDOWS\system32\msstdfmt.dll=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\comdlg32.ocx=
+C:\WINDOWS\system32\scrrun.dll=
+
+[Package|Parabolick|Files Added]
+C:\Parabolick\Envios.exe=
+C:\Parabolick\dll\Inicio.html=
+C:\Parabolick\dll\Opc.Rlj=
+C:\Parabolick\dll\Notas.txt=
+C:\Parabolick\dll\Registrar_dll.bat=
+C:\Parabolick\Bd\Registro.mdb=
+C:\Parabolick\img\W95MBX01.ICO=
+
+[Package|Parabolick|Files Removed]
+
+[Package|Parabolick|Files In Project]
+C:\Parabolick\Parabolick.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6ES.DLL=Yes
+C:\Parabolick\zlib.dll=Yes
+C:\Archivos de programa\Archivos comunes\System\ado\msado25.tlb=Yes
+C:\WINDOWS\system32\SystemTray.dll=Yes
+C:\WINDOWS\system32\comdlg32.ocx=Yes
+C:\WINDOWS\system32\CMDLGES.DLL=Yes
+C:\WINDOWS\system32\MSWINSCK.OCX=Yes
+C:\WINDOWS\system32\WINSKES.DLL=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCMCES.DLL=Yes
+C:\WINDOWS\system32\MSDATGRD.OCX=Yes
+C:\WINDOWS\system32\msstdfmt.dll=Yes
+C:\WINDOWS\system32\DATGDES.DLL=Yes
+C:\Archivos de programa\Archivos comunes\designer\MSDERUN.DLL=Yes
+C:\WINDOWS\system32\MSDBRPTR.DLL=Yes
+C:\WINDOWS\system32\DBRPRES.DLL=Yes
+C:\WINDOWS\system32\MSBIND.DLL=Yes
+C:\WINDOWS\system32\mscomct2.ocx=Yes
+C:\WINDOWS\system32\MSCC2ES.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\WINDOWS\system32\wininet.dll=Yes
+C:\WINDOWS\system32\scrrun.dll=Yes
+C:\WINDOWS\system32\msvcrt.dll=Yes
+C:\WINDOWS\system32\scrrnes.dll=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\TABCTES.DLL=Yes
+C:\Parabolick\Envios.exe=Yes
+C:\Parabolick\dll\Inicio.html=Yes
+C:\Parabolick\dll\Opc.Rlj=Yes
+C:\Parabolick\dll\Notas.txt=Yes
+C:\Parabolick\dll\Registrar_dll.bat=Yes
+C:\Parabolick\Bd\Registro.mdb=Yes
+C:\Parabolick\img\W95MBX01.ICO=Yes
+
+[Package|Parabolick|Configure Registry Files]
+Applicable=No
+
+[Package|Parabolick|Configure Remote Servers]
+Applicable=No
+
+[Package|Parabolick|Install Locations]
+C:\Parabolick\Parabolick.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6ES.DLL=$(WinSysPath)
+C:\Parabolick\zlib.dll=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\System\ado\msado25.tlb=$(WinSysPath)
+C:\WINDOWS\system32\SystemTray.dll=$(WinSysPath)
+C:\WINDOWS\system32\comdlg32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSWINSCK.OCX=$(WinSysPath)
+C:\WINDOWS\system32\WINSKES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\msstdfmt.dll=$(WinSysPath)
+C:\WINDOWS\system32\STDFTES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\DATGDES.DLL=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\designer\MSDERUN.DLL=$(CommonFiles)\designer
+C:\WINDOWS\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\DBRPRES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINDOWS\system32\mscomct2.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSCC2ES.DLL=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WINDOWS\system32\wininet.dll=$(WinSysPath)
+C:\WINDOWS\system32\scrrun.dll=$(WinSysPath)
+C:\WINDOWS\system32\msvcrt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\scrrnes.dll=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTES.DLL=$(WinSysPath)
+C:\Parabolick\Envios.exe=$(AppPath)
+C:\Parabolick\dll\Inicio.html=$(AppPath)
+C:\Parabolick\dll\Opc.Rlj=$(AppPath)\dll
+C:\Parabolick\dll\Notas.txt=$(AppPath)\dll
+C:\Parabolick\dll\Registrar_dll.bat=$(AppPath)
+C:\Parabolick\Bd\Registro.mdb=$(AppPath)
+C:\Parabolick\img\W95MBX01.ICO=$(AppPath)
+
+[Package|Parabolick|Configure Shared Files]
+Applicable=Yes
+C:\Parabolick\Parabolick.exe=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Parabolick\Envios.exe=No
+C:\Parabolick\dll\Inicio.html=No
+C:\Parabolick\dll\Opc.Rlj=No
+C:\Parabolick\dll\Notas.txt=No
+C:\Parabolick\dll\Registrar_dll.bat=No
+C:\Parabolick\Bd\Registro.mdb=No
+C:\Parabolick\img\W95MBX01.ICO=No
+
+[Package|Parabolick|Distribution]
+Type=single
+Size=
+Title=Parabolick
+
+[Package|Parabolick|Package]
+PackageFolder=C:\Parabolick
+ProjectFolder=C:\Parabolick
+ServerSideCab=
+File1=C:\Parabolick\setup.exe
+File2=C:\Parabolick\Setup.Lst
+File3=C:\Parabolick\Parabolick.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Parabolick|IconGroups]
+Group0=Parabolick
+PrivateGroup0=Falso
+Parent0=$(Programs)
+
+[Package|Parabolick|Parabolick]
+Icon1=Parabolick.exe
+Title1=Parabolick
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|FileTransfer|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Parabolick
+
+[Package|FileTransfer|Configure DAO ISAMs]
+Applicable=No
+
+[Package|FileTransfer|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|FileTransfer|Files Found]
+
+[Package|FileTransfer|Files Released]
+
+[Package|FileTransfer|Missing Dependency Information]
+C:\WINDOWS\system32\SystemTray.dll=
+C:\Archivos de programa\Archivos comunes\System\ado\msado25.tlb=
+C:\Parabolick\zlib.dll=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+C:\WINDOWS\system32\wininet.dll=
+C:\Parabolick\Envios.exe=
+
+[Package|FileTransfer|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\mscomct2.ocx=
+C:\WINDOWS\system32\msstdfmt.dll=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\comdlg32.ocx=
+C:\WINDOWS\system32\scrrun.dll=
+
+[Package|FileTransfer|Files Added]
+c:\parabolick\envios.exe=
+c:\parabolick\dll\inicio.html=
+c:\parabolick\dll\opc.rlj=
+c:\parabolick\dll\notas.txt=
+c:\parabolick\dll\registrar_dll.bat=
+c:\parabolick\bd\registro.mdb=
+c:\parabolick\img\w95mbx01.ico=
+C:\Parabolick\Cmd\Comprimir.bat=
+C:\Parabolick\Cmd\Imprimir.bat=
+C:\Parabolick\Generados\Lista\Envio.lst=
+C:\Parabolick\img\0.ICO=
+C:\Parabolick\img\1.ICO=
+C:\Parabolick\img\CHECKMRK.ICO=
+C:\Parabolick\img\DISK04.ICO=
+C:\Parabolick\img\envio.ICO=
+C:\Parabolick\img\EXIT.ICO=
+C:\Parabolick\img\Favoritos.ICO=
+C:\Parabolick\img\foco1.ico=
+C:\Parabolick\img\FOLDRS02.ICO=
+C:\Parabolick\img\historial.ICO=
+C:\Parabolick\img\INFO.ICO=
+C:\Parabolick\img\LIGHTON.ICO=
+C:\Parabolick\img\LINK.cur=
+C:\Parabolick\img\LITENING.ICO=
+C:\Parabolick\img\logo.gif=
+C:\Parabolick\img\MISC05.ICO=
+C:\Parabolick\img\MISC08.ICO=
+C:\Parabolick\img\MISC18.ICO=
+C:\Parabolick\img\MISC19.ICO=
+C:\Parabolick\img\MISC20.ICO=
+C:\Parabolick\img\MSGBOX03.ICO=
+C:\Parabolick\img\NET04.ICO=
+C:\Parabolick\img\NETHOOD.ICO=
+C:\Parabolick\img\opciones.ico=
+C:\Parabolick\img\POINT06.ICO=
+C:\Parabolick\img\recepcion.ICO=
+C:\Parabolick\img\Reset.ICO=
+C:\Parabolick\img\Rocket.ICO=
+C:\Parabolick\img\SATLITE.ICO=
+C:\Parabolick\img\SELECT.CUR=
+C:\Parabolick\img\Skull 5.ico=
+C:\Parabolick\img\Skull Face.ico=
+C:\Parabolick\img\Surge Protector.ico=
+C:\Parabolick\img\SWORD02D.ICO=
+C:\Parabolick\img\SWORD03B.ICO=
+C:\Parabolick\img\TAREA.ICO=
+C:\Parabolick\img\Transmicion.ico=
+C:\Parabolick_\img\Connect.ico=
+C:\Parabolick\Reportes\Gral\Reporte.html=
+
+[Package|FileTransfer|Files Removed]
+
+[Package|FileTransfer|Files In Project]
+C:\Parabolick\Parabolick.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6ES.DLL=Yes
+C:\Parabolick\zlib.dll=Yes
+C:\Archivos de programa\Archivos comunes\System\ado\msado25.tlb=Yes
+C:\WINDOWS\system32\SystemTray.dll=Yes
+C:\WINDOWS\system32\comdlg32.ocx=Yes
+C:\WINDOWS\system32\CMDLGES.DLL=Yes
+C:\WINDOWS\system32\MSWINSCK.OCX=Yes
+C:\WINDOWS\system32\WINSKES.DLL=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCMCES.DLL=Yes
+C:\WINDOWS\system32\MSDATGRD.OCX=Yes
+C:\WINDOWS\system32\msstdfmt.dll=Yes
+C:\WINDOWS\system32\DATGDES.DLL=Yes
+C:\Archivos de programa\Archivos comunes\designer\MSDERUN.DLL=Yes
+C:\WINDOWS\system32\MSDBRPTR.DLL=Yes
+C:\WINDOWS\system32\DBRPRES.DLL=Yes
+C:\WINDOWS\system32\MSBIND.DLL=Yes
+C:\WINDOWS\system32\mscomct2.ocx=Yes
+C:\WINDOWS\system32\MSCC2ES.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\WINDOWS\system32\wininet.dll=Yes
+C:\WINDOWS\system32\scrrun.dll=Yes
+C:\WINDOWS\system32\msvcrt.dll=Yes
+C:\WINDOWS\system32\scrrnes.dll=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\TABCTES.DLL=Yes
+C:\Parabolick\Envios.exe=Yes
+C:\Parabolick\dll\Inicio.html=Yes
+C:\Parabolick\dll\Opc.Rlj=Yes
+C:\Parabolick\dll\Notas.txt=Yes
+C:\Parabolick\dll\Registrar_dll.bat=Yes
+C:\Parabolick\Bd\Registro.mdb=Yes
+C:\Parabolick\img\W95MBX01.ICO=Yes
+C:\Parabolick\Cmd\Comprimir.bat=Yes
+C:\Parabolick\Cmd\Imprimir.bat=Yes
+C:\Parabolick\Generados\Lista\Envio.lst=Yes
+C:\Parabolick\img\0.ICO=Yes
+C:\Parabolick\img\1.ICO=Yes
+C:\Parabolick\img\CHECKMRK.ICO=Yes
+C:\Parabolick\img\DISK04.ICO=Yes
+C:\Parabolick\img\envio.ICO=Yes
+C:\Parabolick\img\EXIT.ICO=Yes
+C:\Parabolick\img\Favoritos.ICO=Yes
+C:\Parabolick\img\foco1.ico=Yes
+C:\Parabolick\img\FOLDRS02.ICO=Yes
+C:\Parabolick\img\historial.ICO=Yes
+C:\Parabolick\img\INFO.ICO=Yes
+C:\Parabolick\img\LIGHTON.ICO=Yes
+C:\Parabolick\img\LINK.cur=Yes
+C:\Parabolick\img\LITENING.ICO=Yes
+C:\Parabolick\img\logo.gif=Yes
+C:\Parabolick\img\MISC05.ICO=Yes
+C:\Parabolick\img\MISC08.ICO=Yes
+C:\Parabolick\img\MISC18.ICO=Yes
+C:\Parabolick\img\MISC19.ICO=Yes
+C:\Parabolick\img\MISC20.ICO=Yes
+C:\Parabolick\img\MSGBOX03.ICO=Yes
+C:\Parabolick\img\NET04.ICO=Yes
+C:\Parabolick\img\NETHOOD.ICO=Yes
+C:\Parabolick\img\opciones.ico=Yes
+C:\Parabolick\img\POINT06.ICO=Yes
+C:\Parabolick\img\recepcion.ICO=Yes
+C:\Parabolick\img\Reset.ICO=Yes
+C:\Parabolick\img\Rocket.ICO=Yes
+C:\Parabolick\img\SATLITE.ICO=Yes
+C:\Parabolick\img\SELECT.CUR=Yes
+C:\Parabolick\img\Skull 5.ico=Yes
+C:\Parabolick\img\Skull Face.ico=Yes
+C:\Parabolick\img\Surge Protector.ico=Yes
+C:\Parabolick\img\SWORD02D.ICO=Yes
+C:\Parabolick\img\SWORD03B.ICO=Yes
+C:\Parabolick\img\TAREA.ICO=Yes
+C:\Parabolick\img\Transmicion.ico=Yes
+C:\Parabolick_\img\Connect.ico=Yes
+C:\Parabolick\Reportes\Gral\Reporte.html=Yes
+
+[Package|FileTransfer|Configure Registry Files]
+Applicable=No
+
+[Package|FileTransfer|Configure Remote Servers]
+Applicable=No
+
+[Package|FileTransfer|Install Locations]
+C:\Parabolick\Parabolick.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6ES.DLL=$(WinSysPath)
+C:\Parabolick\zlib.dll=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\System\ado\msado25.tlb=$(WinSysPath)
+C:\WINDOWS\system32\SystemTray.dll=$(WinSysPath)
+C:\WINDOWS\system32\comdlg32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSWINSCK.OCX=$(WinSysPath)
+C:\WINDOWS\system32\WINSKES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\msstdfmt.dll=$(WinSysPath)
+C:\WINDOWS\system32\STDFTES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\DATGDES.DLL=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\designer\MSDERUN.DLL=$(CommonFiles)\designer
+C:\WINDOWS\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\DBRPRES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINDOWS\system32\mscomct2.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSCC2ES.DLL=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WINDOWS\system32\wininet.dll=$(WinSysPath)
+C:\WINDOWS\system32\scrrun.dll=$(WinSysPath)
+C:\WINDOWS\system32\msvcrt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\scrrnes.dll=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTES.DLL=$(WinSysPath)
+C:\Parabolick\Envios.exe=$(AppPath)
+C:\Parabolick\dll\Inicio.html=$(AppPath)
+C:\Parabolick\dll\Opc.Rlj=$(AppPath)\dll
+C:\Parabolick\dll\Notas.txt=$(AppPath)\dll
+C:\Parabolick\dll\Registrar_dll.bat=$(AppPath)
+C:\Parabolick\Bd\Registro.mdb=$(AppPath)
+C:\Parabolick\img\W95MBX01.ICO=$(AppPath)
+C:\Parabolick\Cmd\Comprimir.bat=$(AppPath)\cmd
+C:\Parabolick\Cmd\Imprimir.bat=$(AppPath)
+C:\Parabolick\Generados\Lista\Envio.lst=$(AppPath)
+C:\Parabolick\img\0.ICO=$(AppPath)\img
+C:\Parabolick\img\1.ICO=$(AppPath)\img
+C:\Parabolick\img\CHECKMRK.ICO=$(AppPath)\img
+C:\Parabolick\img\DISK04.ICO=$(AppPath)
+C:\Parabolick\img\envio.ICO=$(AppPath)
+C:\Parabolick\img\EXIT.ICO=$(AppPath)
+C:\Parabolick\img\Favoritos.ICO=$(AppPath)
+C:\Parabolick\img\foco1.ico=$(AppPath)
+C:\Parabolick\img\FOLDRS02.ICO=$(AppPath)
+C:\Parabolick\img\historial.ICO=$(AppPath)
+C:\Parabolick\img\INFO.ICO=$(AppPath)
+C:\Parabolick\img\LIGHTON.ICO=$(AppPath)
+C:\Parabolick\img\LINK.cur=$(AppPath)
+C:\Parabolick\img\LITENING.ICO=$(AppPath)
+C:\Parabolick\img\logo.gif=$(AppPath)
+C:\Parabolick\img\MISC05.ICO=$(AppPath)
+C:\Parabolick\img\MISC08.ICO=$(AppPath)
+C:\Parabolick\img\MISC18.ICO=$(AppPath)
+C:\Parabolick\img\MISC19.ICO=$(AppPath)
+C:\Parabolick\img\MISC20.ICO=$(AppPath)
+C:\Parabolick\img\MSGBOX03.ICO=$(AppPath)
+C:\Parabolick\img\NET04.ICO=$(AppPath)
+C:\Parabolick\img\NETHOOD.ICO=$(AppPath)
+C:\Parabolick\img\opciones.ico=$(AppPath)
+C:\Parabolick\img\POINT06.ICO=$(AppPath)
+C:\Parabolick\img\recepcion.ICO=$(AppPath)
+C:\Parabolick\img\Reset.ICO=$(AppPath)
+C:\Parabolick\img\Rocket.ICO=$(AppPath)
+C:\Parabolick\img\SATLITE.ICO=$(AppPath)
+C:\Parabolick\img\SELECT.CUR=$(AppPath)
+C:\Parabolick\img\Skull 5.ico=$(AppPath)
+C:\Parabolick\img\Skull Face.ico=$(AppPath)
+C:\Parabolick\img\Surge Protector.ico=$(AppPath)
+C:\Parabolick\img\SWORD02D.ICO=$(AppPath)
+C:\Parabolick\img\SWORD03B.ICO=$(AppPath)
+C:\Parabolick\img\TAREA.ICO=$(AppPath)
+C:\Parabolick\img\Transmicion.ico=$(AppPath)
+C:\Parabolick_\img\Connect.ico=$(AppPath)
+C:\Parabolick\Reportes\Gral\Reporte.html=$(AppPath)
+
+[Package|FileTransfer|Configure Shared Files]
+Applicable=Yes
+C:\Parabolick\Parabolick.exe=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Parabolick\Envios.exe=No
+C:\Parabolick\dll\Inicio.html=No
+C:\Parabolick\dll\Opc.Rlj=No
+C:\Parabolick\dll\Notas.txt=No
+C:\Parabolick\dll\Registrar_dll.bat=No
+C:\Parabolick\Bd\Registro.mdb=No
+C:\Parabolick\img\W95MBX01.ICO=No
+C:\Parabolick\Cmd\Comprimir.bat=No
+C:\Parabolick\Cmd\Imprimir.bat=No
+C:\Parabolick\Generados\Lista\Envio.lst=No
+C:\Parabolick\img\0.ICO=No
+C:\Parabolick\img\1.ICO=No
+C:\Parabolick\img\CHECKMRK.ICO=No
+C:\Parabolick\img\DISK04.ICO=No
+C:\Parabolick\img\envio.ICO=No
+C:\Parabolick\img\EXIT.ICO=No
+C:\Parabolick\img\Favoritos.ICO=No
+C:\Parabolick\img\foco1.ico=No
+C:\Parabolick\img\FOLDRS02.ICO=No
+C:\Parabolick\img\historial.ICO=No
+C:\Parabolick\img\INFO.ICO=No
+C:\Parabolick\img\LIGHTON.ICO=No
+C:\Parabolick\img\LINK.cur=No
+C:\Parabolick\img\LITENING.ICO=No
+C:\Parabolick\img\logo.gif=No
+C:\Parabolick\img\MISC05.ICO=No
+C:\Parabolick\img\MISC08.ICO=No
+C:\Parabolick\img\MISC18.ICO=No
+C:\Parabolick\img\MISC19.ICO=No
+C:\Parabolick\img\MISC20.ICO=No
+C:\Parabolick\img\MSGBOX03.ICO=No
+C:\Parabolick\img\NET04.ICO=No
+C:\Parabolick\img\NETHOOD.ICO=No
+C:\Parabolick\img\opciones.ico=No
+C:\Parabolick\img\POINT06.ICO=No
+C:\Parabolick\img\recepcion.ICO=No
+C:\Parabolick\img\Reset.ICO=No
+C:\Parabolick\img\Rocket.ICO=No
+C:\Parabolick\img\SATLITE.ICO=No
+C:\Parabolick\img\SELECT.CUR=No
+C:\Parabolick\img\Skull 5.ico=No
+C:\Parabolick\img\Skull Face.ico=No
+C:\Parabolick\img\Surge Protector.ico=No
+C:\Parabolick\img\SWORD02D.ICO=No
+C:\Parabolick\img\SWORD03B.ICO=No
+C:\Parabolick\img\TAREA.ICO=No
+C:\Parabolick\img\Transmicion.ico=No
+C:\Parabolick_\img\Connect.ico=No
+C:\Parabolick\Reportes\Gral\Reporte.html=No
+
+[Package|FileTransfer|Distribution]
+Type=single
+Size=
+Title=Manager File Transfer by Nordwind Systemz
+
+[Package|FileTransfer|Package]
+PackageFolder=C:\Parabolick
+ProjectFolder=C:\Parabolick
+ServerSideCab=
+File1=C:\Parabolick\setup.exe
+File2=C:\Parabolick\Setup.Lst
+File3=C:\Parabolick\Parabolick.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|FileTransfer|IconGroups]
+Group0=Parabolick
+PrivateGroup0=Falso
+Parent0=$(Programs)
+
+[Package|FileTransfer|Parabolick]
+Icon1=Parabolick.exe
+Title1=Parabolick
+StartIn1=$(AppPath)
+Key1=Icon1

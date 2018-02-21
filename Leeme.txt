@@ -1,0 +1,39 @@
+Hay que ejecutar el archivo "Registrar_dll.bat", esto para que se pueda correr el programa sin ningun problema, ya que en caso contrario va a mandar error en tiempo de ejecucion, ya que esta intentando buscar un control active x que aun no esta creado.
+
+Este bat solo registra 2 librerias la Zlib y la SystemTray.
+
+
+
+Para cambiar la ruta de las carpetas necesarias busca el archivo llamado Opc.rlj en la siguiente ruta
+
+Unidad :\FileTransfer\dll
+y hay aparecen las siguientes lineas que son las rutas que el programa ocupa
+
+
+C:\FileTransfer\Enviados
+C:\FileTransfer\Recibidos
+C:\FileTransfer\Generados
+C:\FileTransfer\Ensamble
+USER09567
+8900
+8901
+C:\FileTransfer\Bd\Registro.mdb
+C:\FileTransfer\Extraidos
+C:\FileTransfer\OldRecividos
+C:\FileTransfer\Generados\Lista
+C:\FileTransfer\Reportes\Gral
+SERVER
+Pradva
+C:\FileTransfer\Reportes\Log
+C:\vvvaoz\VVDEVOLU\VVPN\VTRASPAS
+C:\ECO2\ECOTRANS
+C:\ECOOZONO\ECOTRANS
+C:\ECOVAOZ2\ECOBACKU
+C:\ECO2\ECOTRANS\ECOETIEX
+
+Estos son los datos que el programa ocupa para saber donde esta la base de datos, el nombre del servidor, la ruta de los reportes, y la lista de comandos almacenados.
+
+Donde se extraiga la carpeta en esa ruta hay debe de estar apuntado todos estas direcciones, ya que si no existen, mandara error y el programa no corre bien.
+
+
+Roberto Carlos Garcia Cortes
