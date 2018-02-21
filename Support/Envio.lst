@@ -1,0 +1,19 @@
+[INFO_ARCHIVO]
+Nombre=MAU81756.dpk
+Ruta=C:\Parabolick\Generados\MAU81756.dpk
+Fecha_Creacion= 05/04/2007 01:52:22 a.m.
+NumeroEnvios= 1
+UsuarioOrigen= MAURO HERRERA
+UID=USER09567
+OIDMOV= MAU81756_1505047
+ComentarioMain=PUTA MADRE!!!!
+
+[USUARIO_1]
+IP = 127.0.0.1
+PING = 1
+COMENTARIO = Equipo remoto encontrado
+ENVIO = 9
+PUERTO = 8901
+FECHA_ENVIO = 05/04/2007 01:52:22 a.m.
+UID =USER45674
+

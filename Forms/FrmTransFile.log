@@ -1,0 +1,9 @@
+Línea 39: la clase MSWinsockLib.Winsock del control Winsock1 no era una clase de control cargada.
+Línea 63: la clase MSComctlLib.ProgressBar del control recieved no era una clase de control cargada.
+Línea 42: el nombre de la propiedad _ExtentX de Winsock1 no es válido.
+Línea 43: el nombre de la propiedad _ExtentY de Winsock1 no es válido.
+Línea 44: el nombre de la propiedad _Version de Winsock1 no es válido.
+Línea 69: el nombre de la propiedad _ExtentX de recieved no es válido.
+Línea 70: el nombre de la propiedad _ExtentY de recieved no es válido.
+Línea 71: el nombre de la propiedad _Version de recieved no es válido.
+Línea 74: el nombre de la propiedad Scrolling de recieved no es válido.

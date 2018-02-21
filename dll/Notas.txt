@@ -1,0 +1,4 @@
+systemtray.dll y zlib.dll se copian a la carpeta:
+
+c:\windows\system32\ 
+y hay se registran con regsvr32.exe
